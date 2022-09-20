@@ -1,5 +1,5 @@
 import { it, expect, describe } from 'vitest';
-import sum from './app';
+import sum from './sum';
 
 describe('Sum Tests', () => {
   it('should add all the numbers', () => {
