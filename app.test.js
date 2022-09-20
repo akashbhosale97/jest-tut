@@ -12,7 +12,6 @@ it('return 0 if no numbers are passed', () => {
 });
 
 it('if single number is passed it should return same number', () => {
-  const result = sum(2);
-  expect(result).toBe(2);
-  console.log(result);
+  const result = sum(3);
+  expect(result).toBe(3);
 });

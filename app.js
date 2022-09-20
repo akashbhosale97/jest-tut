@@ -6,4 +6,3 @@ export default function sum(...numbers) {
   console.log(sum);
   return sum;
 }
-sum(1, 2, 3, 4, 5, 6);
