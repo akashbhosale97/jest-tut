@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^0.23.2"
+  },
+  "scripts": {
+    "test": "vitest --globals"
+  }
+}
